@@ -1,4 +1,4 @@
-# interview-app
+# tax-calculator
 
 ## Project setup
 ```
