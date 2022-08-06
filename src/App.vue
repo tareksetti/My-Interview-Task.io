@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-         <p class="text-center">Welcome to my interview task</p>
+         <p class="text-center">Welcome to tax calculator</p>
          <SalesTax />
        
 
